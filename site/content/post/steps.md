@@ -1,6 +1,6 @@
 ---
 title: "setps of adding changes"
-date: 2022-01-30T12:05:10.000Z
+date: 2022-01-29T12:05:10.000Z
 description: Learning changes and push under bear's guidance
 image: /img/Taro.jpg
 ---
