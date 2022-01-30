@@ -7,7 +7,10 @@ image: /img/Taro.jpg
 
 # DO NOT MAKE CHANGES SIMULTANEOUSLY ON WEB AND DESKTOP
 
+
+
 # Keep head all the same with tempelate
+
 
 ## Local Changes
 
