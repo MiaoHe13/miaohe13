@@ -3,18 +3,18 @@ title: "Miao He"
 subtitle: Ecology and Biodiversity starter
 image: /img/D89A61C6-2005-4D05-9132-252FF3F5FCB2_1_105_c.jpeg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Where I am now?
+    text: "I am now a master student in Environmental Biology program, Utrecht University. Since September 2021, I have been a research intern in Ecology and Biodiversity Group under the supervise of Yann Hautier, Merel Soons and Katie Barry."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
+    heading: "Current research project"
+    text: " Now I mainly focus on exploring the relationship between biodiversity and ecosystem functioning, including production, nutrient uptake, etc."
+research:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "The overyielding of plant species might be changed by the addition of nutrient. I seperate two non-exclusive mechanisms of overyielding, complementarity effect and selection effect, and see how they respond to nutrient addition under different species richness and nutrient level."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+      text: "Since January 2021, I have been a research intern in Biodiversity and Biosafety Group, Institute of Botany, Chinese Academy of Science. My project here is about the survey efficiency of camera trap. I re-sampled from field camera trap data to explore the survey effort under different survey design, including number of cameras, starting date, duration, etc."
+goal:
+    heading: My goal
+    text: Exploring the unknow | Revealing the beauty | Feeling the nature
 ---
 
