@@ -3,7 +3,7 @@ title: "Miao He"
 subtitle: Ecology and Biodiversity starter
 image: /img/D89A61C6-2005-4D05-9132-252FF3F5FCB2_1_105_c.jpeg
 blurb:
-    heading: Where I am now?
+    heading: Who am I?
     text: "I am now a master student in Environmental Biology program, Utrecht University. Since September 2021, I have been a research intern in Ecology and Biodiversity Group under the supervise of Yann Hautier, Merel Soons and Katie Barry."
 intro:
     heading: "Current research project"
@@ -15,6 +15,6 @@ research:
       text: "Since January 2021, I have been a research intern in Biodiversity and Biosafety Group, Institute of Botany, Chinese Academy of Science. My project here is about the survey efficiency of camera trap. I re-sampled from field camera trap data to explore the survey effort under different survey design, including number of cameras, starting date, duration, etc."
 goal:
     heading: My goal
-    text: Exploring the unknow | Revealing the beauty | Feeling the nature
+    text: "Exploring the unknow | Revealing the beauty | Feeling the nature"
 ---
 
