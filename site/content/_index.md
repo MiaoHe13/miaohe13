@@ -1,6 +1,6 @@
 ---
 title: "Miao He | Ecology and Biodiversity starter"
-subtitle: Notes: it's still under construction now, pls check later :)
+subtitle: "it's still under construction now, pls check later :)"
 image: /img/D89A61C6-2005-4D05-9132-252FF3F5FCB2_1_105_c.jpeg
 blurb:
     heading: Who am I?
