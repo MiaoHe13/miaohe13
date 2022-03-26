@@ -15,8 +15,9 @@ image: /img/Taro.jpg
 ## Local Changes
 
 1. open github desktop-show in finder-changes anything you want/upload image files
-2. view changes in the desktop-Changes, add discription on it
-3. push origin
+2. Image fold location : E:\github\miaohe13\site\static\img
+3. view changes in the desktop-Changes, add discription on it
+4. push origin
 
 ## Web Changes
 
